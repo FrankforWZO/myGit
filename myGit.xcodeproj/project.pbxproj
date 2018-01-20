@@ -14,6 +14,7 @@
 		F819013720134907004A4DBC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F819013520134907004A4DBC /* LaunchScreen.storyboard */; };
 		F819014220134907004A4DBC /* myGitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F819014120134907004A4DBC /* myGitTests.swift */; };
 		F819014D20134907004A4DBC /* myGitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F819014C20134907004A4DBC /* myGitUITests.swift */; };
+		F819015B20134BF4004A4DBC /* mysecondGitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F819015A20134BF4004A4DBC /* mysecondGitViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		F819014820134907004A4DBC /* myGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = myGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F819014C20134907004A4DBC /* myGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myGitUITests.swift; sourceTree = "<group>"; };
 		F819014E20134907004A4DBC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F819015A20134BF4004A4DBC /* mysecondGitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mysecondGitViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				F819012C20134907004A4DBC /* AppDelegate.swift */,
 				F819012E20134907004A4DBC /* ViewController.swift */,
+				F819015A20134BF4004A4DBC /* mysecondGitViewController.swift */,
 				F819013020134907004A4DBC /* Main.storyboard */,
 				F819013320134907004A4DBC /* Assets.xcassets */,
 				F819013520134907004A4DBC /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F819015B20134BF4004A4DBC /* mysecondGitViewController.swift in Sources */,
 				F819012F20134907004A4DBC /* ViewController.swift in Sources */,
 				F819012D20134907004A4DBC /* AppDelegate.swift in Sources */,
 			);
